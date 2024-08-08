@@ -97,6 +97,6 @@ You'll see any output file called `.gas-snapshot`
 Best practice to use your `$PRIVATE_KEY` is to encode it and then use it, you should never hard copy paste your private key with the real funds in the `.env` file.
 
 # Thanks!
-Thank you for staying engaged with this project, ff you appreciated this, feel free to follow!
+Thank you for staying engaged with this project, if you appreciated this, feel free to follow!
 
 
